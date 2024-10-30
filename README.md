@@ -45,4 +45,16 @@ npm run dev
 
 ## Screenshots
 
-![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Real-Time-Chat-App/blob/dfb60fd417d424326a8e23f22569556cc62b551c/Img%20-%201.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%201.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%202.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%203.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%204.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%205.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%206.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%207.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%208.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%209.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%2010.png)
+![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%2011.png)
+
+<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
