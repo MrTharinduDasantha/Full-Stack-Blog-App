@@ -1,4 +1,4 @@
-# Full Stack E-Commerce Website
+# Full Stack Blog Website
 
 In this project, I will make a Full-stack Blog app using Next JS, Tailwind CSS, and MongoDB. In this, full-stack website project I will create a forntend, Backend, and admin panel. 
 
