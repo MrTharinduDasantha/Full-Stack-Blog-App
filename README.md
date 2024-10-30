@@ -1,6 +1,6 @@
 # Full Stack Blog Website
 
-In this project, I will make a Full-stack Blog app using Next JS, Tailwind CSS, and MongoDB. In this, full-stack website project I will create a forntend, Backend, and admin panel. 
+In this project, I will make a Full-stack Blog website using Next JS, Tailwind CSS, and MongoDB. In this, full-stack website project I will create a forntend, Backend, and admin panel. 
 
 On this website, I will display the blog post. I will create an admin panel dashboard using Next js to upload and manage our blog post. I will also create the backend for our APIs. Using these backend API I can save the blog post on our mongodb database and we can also fetch the data from mongodb database and display the blog post on your website.
 
@@ -16,8 +16,8 @@ Link 👉 https://drive.google.com/file/d/1WcT88pT0FYGc2DGthRbYbidpuSMWk9jk/view
 
 #### Clone the repository and install project dependencies.
 ```bash
-  git clone https://github.com/MrTharinduDasantha/Full-Stack-Blog-App.git
-  cd Full-Stack-Blog-App
+  git clone https://github.com/MrTharinduDasantha/Full-Stack-Blog-Website.git
+  cd Full-Stack-Blog-Website
   npm install
 ```
 #### Database Configuration
@@ -57,4 +57,4 @@ npm run dev
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%2010.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Blog-App/blob/aacd0d0475f91e13be7113a2337f5a06677c0ace/Img%20-%2011.png)
 
-<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
+<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
